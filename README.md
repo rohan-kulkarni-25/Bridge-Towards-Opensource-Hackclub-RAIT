@@ -1,2 +1,2 @@
 # Bridge-Towards-Opensource-Hackclub-RAIT
-This is repostiory which i created for workshop under Hackclub Rait 
+Date : 27 Dec 5 PM 
