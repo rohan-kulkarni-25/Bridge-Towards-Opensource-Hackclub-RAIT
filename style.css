@@ -1,0 +1,31 @@
+html{
+  font-size: 62.5%;
+}
+
+body{
+  background-color: gold;
+}
+.nav{
+  text-align: center;
+  font-size: 8rem;
+  background-color: orangered;
+  border-radius: 12px;
+}
+
+.listbox{
+  font-size: 4rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.listbox p{
+  border-radius: 12px;
+  background-color: aliceblue;
+  width: fit-content;
+  padding: 2rem;
+  margin: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px rgba(128, 128, 128, 0.1);
+}
